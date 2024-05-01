@@ -4,27 +4,23 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Daniel Martín
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: danmarmon1986@gmail.com
+    phone: +34 644240525
+    timezone: Central European Time (CET)
+    citizenship: Spanish
+    linkedin: www.linkedin.com/in/daniel-m-monge
+    github: github.com/cefeidas
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,233 +29,176 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Roller Skating
           link:
 
-        - item: Snowboarding
+        - item: Role-playing Games
           link:
 
-        - item: Cooking
+        - item: Filosophy
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Junior Software Developer with a strong foundation in both 
+      front-end and back-end development. My recent entry into the field 
+      has been marked by the rapid development of practical applications 
+      and a keen interest in modern software development practices. 
+      Driven by curiosity and a passion for problem-solving, I have 
+      successfully built several projects that showcase my ability to learn 
+      quickly and apply new technologies effectively. I am eager to join a 
+      team where I can contribute my skills and continue my professional growth.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Full Stack Software Development Diploma
+        university: Code Institute
+        time: Ongoing
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+          An intensive program focused on developing practical skills for 
+          building complete web applications, from front-end to back-end, 
+          using technologies such as HTML, CSS, JavaScript, Python, 
+          and Django.
+            - Developed practical projects to apply acquired knowledge.
+            - Emphasized object-oriented programming, databases, and agile development methodologies.
+
+      - degree: Courses in Physics
+        university: Universidad de Sevilla
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Engaged in various advanced physics courses, covering topics from quantum mechanics to 
+          general relativity.
+            - Gained a solid foundation in mathematical methods for physics.
+            - Conducted research projects and presentations on selected topics.
+
+      - degree: Courses in Philosophy
+        university: Universidad de Sevilla
+        time: 2011 - 2015
+        details: |
+          Intensive study of Western philosophy, with a focus on logic, ethics, and philosophy of mind.
+            - Critical analysis of philosophical arguments and development of critical thinking skills.
+            - Participated in seminars and group discussions on contemporary philosophical issues.
+
+      - degree: Other Certifications and Diplomas
+        university: Various
+        time: Various Times
+        details: |
+          Alongside formal academic education, I have pursued various professional certifications and diplomas to broaden my skill set and enhance my leadership and technical capabilities:
+            - **Microsoft Office Specialist (MOS) Advanced Certification**: Demonstrated advanced skills in Microsoft Office applications, enhancing my efficiency and productivity in professional settings.
+            - **Leadership Training Course**: Completed a comprehensive course focusing on developing effective leadership skills, team management, and strategic planning.
+            - **Learning Experience Leader Diploma**: Earned within a corporate environment, this diploma signifies my capability to design, implement, and lead successful training programs and learning experiences for teams, fostering growth and development.
+
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Risk Management Specialist
+        time: November 2021 – 2023
+        company: TaskUs Ireland Private Limited, Ballymount Industrial Estate, Dublin, Ireland
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Focused on financial risk management and the delivery of presentations within the Business Print Unit. Actively participated and was elected for AI training programs, demonstrating a commitment to continuous learning in financial services.
+            - Spearheaded financial risk assessment projects, enhancing company-wide risk mitigation strategies.
+            - Designed and delivered engaging presentations on risk management best practices and insights.
+            - Selected for advanced AI training programs, underscoring a proactive approach to leveraging technology in financial services.
+            
+      - role: Night Warehouse Operative
+        time: August 2021 – October 2021
+        company: Amazon Warehouse, Greenogue Business Park, Rathcoole, Co. Dublin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Responsible for efficient handling of warehouse operations including loading, unloading, and organizing goods, as well as customer service and label printing during night shifts.
+            - Ensured accurate handling and storage of goods, contributing to the smooth operation of warehouse activities.
+            - Provided customer service support, resolving queries and enhancing customer satisfaction.
+            - Implemented efficient goods tracking and management through effective label printing and inventory management.
+            
+      - role: Call Centre Agent
+        time: October 2020 – August 2021
+        company: Prepaid Financial Services (FPS), Scurlockstown Business Park, Trim, Co. Meath
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          Delivered high-quality customer service over the phone and via email, handling complaints and providing financial advice to clients.
+            - Managed customer inquiries and complaints, providing timely and effective resolutions.
+            - Offered financial advice to clients, ensuring their inquiries were addressed with accurate and helpful information.
+            - Maintained high standards of customer service, contributing to the company’s reputation for excellence.
+            
+      - role: QA Level 0 – QA Team Leader
+        time: January 2019 – July 2020
+        company: Media Interactiva, Edificio Centris, Tomares, Sevilla
+        details: |
+          Led the QA team in software quality assurance, training new agents, and translating and preparing official documentation.
+            - Oversaw software testing processes to ensure product quality and compliance with specifications.
+            - Mentored new QA agents, providing training and guidance to strengthen team capabilities.
+            - Translated and prepared official documentation, ensuring accuracy and clarity in communication.
 
 projects:
-    title: Projects
+    title: Portfolio
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This section presents a selection of my initial projects, which 
+      mark the beginning of my journey into software development. 
+      These projects reflect my foundational skills in web development, 
+      my eagerness to learn, and my commitment to applying best practices 
+      even in my earliest works. While still at the early stages of my career, 
+      each project has been an invaluable learning opportunity, allowing me to 
+      explore different aspects of development and to understand the 
+      essentials of creating effective, user-friendly digital products.
+
     assignments:
-      - title: Velocity
+      - title: Uplift Octopus
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Diving into Sci-Fi Universes: An Interactive Exploration."
+      
+      - title: <strong><small>Repository link</small></strong>
+        link: "#hook repo"
 
-      - title: DevStudio
+      - title: Can't Stop
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A Python Interactive Game - A streamlined version of the classic 'push your luck' board game."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: <strong><small>Repository link</small></strong>
+        link: "#hook repo"
 
-      - title: Atom
+      - title: Mildew-Detection-in-Cherry-Leaves
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Utilizing CNN AI for precise mildew detection on cherry leaves."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: <strong><small>Repository link</small></strong>
+        link: "#hook repo"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills & Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: HTML5 & CSS
+      level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: Javascript & jQuery
+      level: 60%
 
-      - name: Angular
-        level: 98%
+    - name: Python & Django
+      level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: SQL and Databases
+      level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Data Analysis with Numpy
+      level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: AI Training with CNN
+      level: 65%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - name: Deployment Tools (Heroku)
+      level: 75%
+
